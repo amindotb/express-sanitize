@@ -1,6 +1,6 @@
 {
   "name": "express-sanitize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A middleware to sanitize all of the request inputs to prevent SQL injections and XSS attacks",
   "main": "index.js",
   "scripts": {
