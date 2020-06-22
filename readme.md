@@ -6,7 +6,7 @@ An express middleware to sanitize all of the request inputs to prevent SQL injec
 
 
 ------------
-The request ```body```,```params``` and ```queries``` will be sanitized. Also, you can edit middleware for custom edits or to escape or adding and characters.
+The request ```body```,```params``` and ```queries``` will be sanitized. Also, you can edit middleware for custom edits like, escape or adding any characters.
 
 I accept any contributes with open arms \\./
 
